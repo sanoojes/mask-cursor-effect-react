@@ -1,5 +1,3 @@
-"use client";
-
 import { useState } from "react";
 import useMousePosition from "./utils/useMousePosition";
 import { motion } from "framer-motion";
